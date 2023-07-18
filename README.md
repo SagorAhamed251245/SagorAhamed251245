@@ -93,7 +93,9 @@
 </div>
 
 ###
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@sagorahamed)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center" >
+  [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@sagorahamed)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 ###
 
 
