@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img height="500" src="https://i.ibb.co/Dkz0Y5P/facebook.png"  />
+  <img height="400" src="https://i.ibb.co/Dkz0Y5P/facebook.png"  />
 </div>
 <br clear="both">
 
@@ -15,6 +15,11 @@
 ###
 
 <p align="left">Nowadays, I am assuming a Junior Frontend Developer with a strong passion for creating engaging user interfaces. I want to contribute my skills and enthusiasm in a dynamic team environment. I am committed to continuous learning and staying abreast of industry trends to deliver exceptional front-end solutions.</p>
+
+###
+###
+
+<h3 align="left">Skill</h3>
 
 ###
 
@@ -51,7 +56,11 @@
 </div>
 
 ###
+###
 
+<h3 align="left">Contact Me</h3>
+
+###
 <div align="center">
   <a href="https://www.linkedin.com/in/sagor-ahamed-87550a251/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
