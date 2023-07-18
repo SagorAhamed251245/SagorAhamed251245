@@ -34,6 +34,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
+  <img src="https://i.ibb.co/pZ7hfbT/es6.png" height="40" alt="ES6 logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
@@ -55,6 +57,8 @@
   <img src="https://i.ibb.co/KKBKmDQ/axios.png" height="40" alt="Axios logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://i.ibb.co/GnX8wMY/react-query.png" height="40" alt="react-query logo"  />
   <img width="12" />
 </div>
 
