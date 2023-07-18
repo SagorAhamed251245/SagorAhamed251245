@@ -92,4 +92,9 @@
   <img src="https://streak-stats.demolab.com?user=SagorAhamed251245&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
+###
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?@sagorahamed=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+###
+
+
 
