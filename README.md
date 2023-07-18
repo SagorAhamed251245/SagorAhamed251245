@@ -60,8 +60,8 @@
 
 <br clear="both">
 
-<div align="right">
-  <img height="500" src="https://scontent.fdac148-1.fna.fbcdn.net/v/t39.30808-6/350940940_1438191013584831_5348230496206405966_n.png?_nc_cat=103&ccb=1-7&_nc_sid=e3f864&_nc_ohc=FEA03mhEwXAAX846VAH&_nc_ht=scontent.fdac148-1.fna&oh=00_AfBhdzFD-Cay7n1xthJ9Z7-ffsMGwMIThCTWSZE78WomUw&oe=64BC0EF4"  />
+<div align="center">
+  <img height="500" src="https://i.ibb.co/Dkz0Y5P/facebook.png"  />
 </div>
 
 ###
