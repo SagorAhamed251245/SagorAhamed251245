@@ -55,6 +55,7 @@
   <img src="https://i.ibb.co/KKBKmDQ/axios.png" height="40" alt="Axios logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img width="12" />
 </div>
 
 ###
