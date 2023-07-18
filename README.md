@@ -60,6 +60,12 @@
   <img width="12" />
   <img src="https://i.ibb.co/GnX8wMY/react-query.png" height="40" alt="react-query logo"  />
   <img width="12" />
+   <img src="https://i.ibb.co/tKwTwf4/jwt.png" height="40" alt="jwt logo"  />
+  <img width="12" />
+   <img src="https://i.ibb.co/ZmFKmWT/strip.png" height="40" alt="strip logo"  />
+  <img width="12" />
+  <img src="https://i.ibb.co/3BJvNck/react-Router.png" height="40" alt="react-Router logo"  />
+  <img width="12" />
 </div>
 
 ###
