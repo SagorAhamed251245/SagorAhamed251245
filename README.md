@@ -93,15 +93,16 @@
 </div>
 
 ###
+<div style="display: flex; justify-content: center;">
+  <a href="https://github.com/sagorahamed">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sagorahamed" alt="Harlok's wakatime stats">
+  </a>
+</div>
 
-  [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@sagorahamed)](https://github.com/anuraghazra/github-readme-stats)
+  
 
 ###
-<br clear="both">
 
-<img align="right" height="300" src="https://wakatime.com/share/@sagorahamed/d1709148-9469-4377-b28a-7e87a4f7d273.png"  />
-
-###
 
 
 
