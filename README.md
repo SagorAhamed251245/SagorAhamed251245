@@ -93,15 +93,11 @@
 </div>
 
 ###
-<table align="center" style="background-color: #f0f0f0;">
-  <tr>
-    <td>
-      <a href="https://github.com/sagorahamed">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sagorahamed" alt="Harlok's wakatime stats">
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center" style="background-color: #f0f0f0; padding: 20px;">
+  <a href="https://github.com/sagorahamed">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sagorahamed" alt="Harlok's wakatime stats">
+  </a>
+</div>
 
 
 
