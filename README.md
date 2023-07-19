@@ -93,11 +93,12 @@
 </div>
 
 ###
-<div style="display: flex; justify-content: center;">
+<div align="center">
   <a href="https://github.com/sagorahamed">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sagorahamed" alt="Harlok's wakatime stats">
   </a>
 </div>
+
 
   
 
