@@ -90,21 +90,17 @@
   <img src="https://github-readme-stats.vercel.app/api?username=SagorAhamed251245&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SagorAhamed251245&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=SagorAhamed251245&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-<div align="center" style="background-color: #f0f0f0; padding: 20px;">
-  <a href="https://github.com/sagorahamed">
+   <a href="https://github.com/sagorahamed">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sagorahamed&theme=dracula&disable_animations=false" alt="Harlok's wakatime stats">
   </a>
 </div>
 
 
+<div align="center" style="background-color: #f0f0f0; padding: 20px;">
+ 
+</div>
 
 
-  
-
-###
 
 
 
