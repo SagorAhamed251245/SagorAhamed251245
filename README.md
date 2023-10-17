@@ -92,24 +92,11 @@
 </div>
 
 
-<div align="center" style="background-color: #f0f0f0; padding: 20px;">
- <a href="https://github.com/sagorahamed">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sagorahamed&theme=dracula&disable_animations=false" alt="Harlok's wakatime stats">
-  </a>
-</div>
-<br clear="both">
-
-<img align="right" height="300" src="https://i.ibb.co/3pPtZcf/Sagor-Ahamed-certificate-of-web-development-1.png"  />
-
-###
-
 <div align="center">
-  <img height="265" src="https://i.ibb.co/wJzJqvV/BEST-SCRUM-OF-ENDGAME.png"  />
+  <img height="500" src="https://i.ibb.co/3pPtZcf/Sagor-Ahamed-certificate-of-web-development-1.png"  />
 </div>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img height="500" src="https://i.ibb.co/f8r9Fh3/Sagor-Ahamed-1.png"  />
