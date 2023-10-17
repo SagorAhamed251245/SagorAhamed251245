@@ -93,21 +93,6 @@
 
 ###
 
-<h3 align="left">Achievements</h3>
-
-###
-<div align="center">
-  <img height="500" src="https://i.ibb.co/3pPtZcf/Sagor-Ahamed-certificate-of-web-development-1.png"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="500" src="https://i.ibb.co/f8r9Fh3/Sagor-Ahamed-1.png"  />
-</div>
-
-###
-
 
 
 
