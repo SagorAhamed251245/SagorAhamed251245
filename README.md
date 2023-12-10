@@ -95,7 +95,8 @@
 <!-- Centering the Dev Card using HTML and markdown -->
 <p align="center">
   <a href="https://app.daily.dev/sagorahamed">
-    <img src="https://api.daily.dev/devcards/b61a036f63c84f278e731bae28df156f.png?r=tpa" width="200" alt="Sagor Ahamed's Dev Card"/>
+    <img src="https://api.daily.dev/devcards/b61a036f63c84f278e731bae28df156f.png?r=ma7" width="200" alt="Sagor Ahamed's Dev Card"/>
+  
   </a>
 </p>
 
