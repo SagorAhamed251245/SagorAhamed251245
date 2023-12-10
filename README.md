@@ -94,11 +94,7 @@
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SagorAhamed251245&margin-w=15&theme=dracula" alt="writerabutaher"/></a></p>
 <!-- Centering the Dev Card using HTML and markdown -->
 <p align="center">
-  <a href="https://app.daily.dev/sagorahamed">
-    <img src="https://api.daily.dev/devcards/b61a036f63c84f278e731bae28df156f.png" width="200" alt="Sagor Ahamed's Dev Card"/>
-  
-  
-  </a>
+
   <a href="https://app.daily.dev/sagorahamed">
     <img src="https://github.com/SagorAhamed251245/SagorAhamed251245/blob/main/devcard.svg" width="200" alt="Sagor Ahamed's Dev Card"/>
   </a>
