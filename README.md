@@ -100,8 +100,7 @@
   
   </a>
   <a href="https://app.daily.dev/sagorahamed">
-    <img src="  https://github.com/SagorAhamed251245/SagorAhamed251245/blob/main/devcard.svg" width="200" alt="Sagor Ahamed's Dev Card"/>
-
+    <img src="https://github.com/SagorAhamed251245/SagorAhamed251245/blob/main/devcard.svg" width="200" alt="Sagor Ahamed's Dev Card"/>
   </a>
 </p>
 
