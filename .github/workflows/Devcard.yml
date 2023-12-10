@@ -1,23 +1,16 @@
-# Copy-paste this code
-
-name: DevCard
-
-permissions:
-  contents: write
+name: Update DevCard
 
 on:
-  workflow_dispatch:
   push:
-    branches:
-      - main
-  schedule:
-    - cron: "0 0 * * *"
+    branches: [ main ]
 
 jobs:
-  devcard:
+  update-devcard:
     runs-on: ubuntu-latest
     steps:
-      - name: devcard
-        uses: dailydotdev/action-devcard@2.0.2
+      - uses: actions/checkout@v3
+      - name: Update DevCard
+        uses: dailydotdev/action-devcard@2.3.1
         with:
           devcard_id: ${{ secrets.DEVCARD_ID }}
+          commit_message: "chore: update devcard.svg"
