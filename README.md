@@ -1,172 +1,312 @@
-<h1 align="center">Hi 👋, I'm Sagor Ahamed</h1>
-<h3 align="center">Frontend Developer · Full Stack · AI-Powered Development</h3>
-<p align="center">Narayanganj, Dhaka, Bangladesh</p>
-
+<!-- ===================== HEADER ===================== -->
 <p align="center">
-  <a href="mailto:sagorahamed251245@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/SagorAhamed251245"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/sagor-ahamed-87550a251/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://sagor-ahamed-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=SagorAhamed251245&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6E40C9,100:00BFFF&height=220&section=header&text=Sagor%20Ahamed&fontSize=64&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Full%20Stack%20Developer%20%E2%80%A2%20Frontend%20Specialist%20%E2%80%A2%20AI-Powered%20Builder&descSize=18&descAlignY=58" width="100%" />
 </p>
 
----
+<p align="center">
+  <a href="https://sagorahamed.me/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=640&lines=Frontend+Developer+%40+WaTheta+Ltd;I+build+scalable+web+apps+with+Next.js;Shipping+faster+with+AI-assisted+workflows;Open+source+%2B+side+projects+lover+%E2%9D%A4%EF%B8%8F" alt="Typing intro" />
+  </a>
+</p>
 
-## 👨‍💻 About Me
+<p align="center">
+  <a href="https://sagorahamed.me/"><img src="https://img.shields.io/badge/Portfolio-sagorahamed.me-6E40C9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://drive.usercontent.google.com/u/0/uc?id=1Y10ApROyIMoexqYYa8iPt1Y14jBUlua2&export=download"><img src="https://img.shields.io/badge/Resume-Download-00BFFF?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
+  <a href="mailto:sagorahamed251245@gmail.com"><img src="https://img.shields.io/badge/Hire_Me-Available-2EA043?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-Full Stack Developer with **2 years** of experience building scalable web applications using **JavaScript, React, Next.js, and Node.js**. Skilled in front-end and back-end development, performance optimization, and **AI-assisted development workflows**.
+<p align="center">
+  <a href="https://www.linkedin.com/in/sagor-ahamed-87550a251/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/SagorAhamed251245"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://www.facebook.com/ahamed.sagor.9638/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/SagorAhamed251245/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
+  <a href="mailto:sagorahamed251245@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=SagorAhamed251245&label=Profile%20views&color=6E40C9&style=flat-square" />
+</p>
 
-- 🔭 Currently working at **WaTheta Ltd** as a Frontend Developer
-- 🗺️ Recently shipped **Rasta Mapen** — a full Bangladesh Location Intelligence API platform (client + admin + server)
-- 🤖 Experienced in **AI-powered development** — leveraging AI tools to ship faster and smarter
-- 🏆 **Best Scrum Lead** award — led a 30-member team in a competition
-- 📍 Based in Narayanganj, Dhaka, Bangladesh
-- 📞 +8801861573359 · +8801571020858
-- 📫 sagorahamed251245@gmail.com
+<p align="center">
+  🛠️ <b>My free tools:</b>
+  <a href="https://imagecompressortool.live/"><b>Free Online Image Compressor</b></a> ·
+  <a href="https://waurl.online/"><b>WhatsApp Link Generator</b></a>
+</p>
 
----
+<br/>
 
-## 🛠️ Skills
+<!-- ===================== ABOUT ===================== -->
+<p align="center">
+  <a href="https://sagorahamed.me/"><img src="./assets/profile.png" width="180" alt="Sagor Ahamed, Full Stack Developer from Bangladesh" /></a>
+</p>
 
-### ⭐ Expertise
+<h3 align="center">Hi, I'm Sagor, a Full Stack Developer from Bangladesh 🇧🇩</h3>
+<p align="center">
+  Building AI-powered products as a Frontend Developer at <a href="https://goclm.io/"><b>WaTheta Ltd</b></a>.
+</p>
 
-**Languages**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![ES6+](https://img.shields.io/badge/ES6+-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-2%2B_Years-6E40C9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Projects-6%2B-00BFFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/npm_Packages-2-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Free_Tools-2-2EA043?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🏆_Best_Scrum_Lead-F0B429?style=for-the-badge" />
+</p>
 
-**Frameworks**
-![React.js](https://img.shields.io/badge/React.js-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+<br/>
 
-**State Management & Data**
-![Redux](https://img.shields.io/badge/React_Redux-764ABC?style=flat&logo=redux&logoColor=white)
-![RTK Query](https://img.shields.io/badge/RTK_Query-764ABC?style=flat&logo=redux&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=flat)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white)
+<!-- ===================== TECH STACK ===================== -->
+## 🛠️ Tech Stack
 
-**Styling**
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat&logo=mui&logoColor=white)
-![Shadcn](https://img.shields.io/badge/Shadcn-000000?style=flat)
-![Maintain UI](https://img.shields.io/badge/Maintain_UI-20232A?style=flat)
+<p align="center">
+  <b>Languages</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,md,bash&perline=7" />
+</p>
 
-**Database**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+<p align="center">
+  <b>Frontend</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui&perline=7" />
+</p>
 
-**🤖 AI-Powered Development**
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=flat&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-CC785C?style=flat&logo=anthropic&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat&logo=openai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=github&logoColor=white)
-![AI Assisted Coding](https://img.shields.io/badge/AI--Assisted_Coding-7C3AED?style=flat&logo=openai&logoColor=white)
+<p align="center">
+  <b>Backend &amp; Database</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&perline=7" />
+</p>
 
-### 🟢 Comfortable
+<p align="center">
+  <b>Tools &amp; Deployment</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,netlify&perline=7" />
+</p>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
-![Tanstack Query](https://img.shields.io/badge/Tanstack_Query-FF4154?style=flat&logo=reactquery&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
-![Next UI](https://img.shields.io/badge/Next_UI-000000?style=flat&logo=nextdotjs&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/RTK_Query-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white" />
+  <img src="https://img.shields.io/badge/NextAuth-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white" />
+</p>
 
-### 🔧 Tools
+<p align="center">
+  <b>🤖 AI-Powered Development</b><br/><br/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-6E40C9?style=for-the-badge&logo=sparkfun&logoColor=white" />
+</p>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=flat&logo=googlechrome&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=flat&logo=cpanel&logoColor=white)
+<br/>
 
----
-
+<!-- ===================== EXPERIENCE ===================== -->
 ## 💼 Experience
 
-### Frontend Developer — WaTheta Ltd
-**Nov 2025 – Present**
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 Frontend Developer</h3>
+      <b><a href="https://goclm.io/">WaTheta Ltd</a></b><br/>
+      <sub>📅 Nov 2025 – Present</sub>
+      <ul>
+        <li>Building responsive interfaces for <b>GO CLM</b>, an AI-powered CRM &amp; business automation platform</li>
+        <li>Dashboards, authentication systems &amp; workflow builders</li>
+      </ul>
+      <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,redux" height="32" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>💻 Frontend Developer</h3>
+      <b>TS4U Inc Ltd (now SDB IT)</b><br/>
+      <sub>📅 Apr 2024 – Sep 2025</sub>
+      <ul>
+        <li>Built the <b>SkillBnk</b> platform with multiple role-based portals</li>
+        <li>Shipped eCommerce, project management, school &amp; matrimony products</li>
+      </ul>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs" height="32" />
+    </td>
+  </tr>
+</table>
 
-### Frontend Developer — TS4U Inc Ltd (Current SDB IT)
-**Apr 2024 – Sep 2025**
+<br/>
 
-Worked on diverse projects including project management tools, school management systems, eCommerce platforms, matrimony services, and AI-powered applications.
+<!-- ===================== FREE TOOLS ===================== -->
+## 🧰 Free Online Tools I Built
 
-**Key Responsibilities:**
-- Developed using React.js and Node.js, ensuring robust, responsive, and clean code architecture.
-- Built dashboards and scalable UIs with authentication using Next.js, Tailwind CSS, and Redux Toolkit.
-- Optimized performance and UX through efficient state management and responsive design.
+<p align="center"><i>100% free, no sign-up, used by people every day. Try them out!</i></p>
 
----
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://imagecompressortool.live/" title="Free Online Image Compressor: compress JPG, PNG and WebP images">
+        <img src="./assets/tools/image-compressor-tool.jpg" width="100%" alt="Free online image compressor tool to reduce JPG, PNG and WebP image size in the browser" />
+      </a>
+      <h3><a href="https://imagecompressortool.live/">🖼️ Image Compressor Tool: Free Online Image Compressor</a></h3>
+      <p>Compress <b>JPG, PNG &amp; WebP</b> images online for free, <b>100% in your browser</b>, so your files never leave your device. Batch compression, compress to an exact size (e.g. 100KB / 50KB), and 11+ languages.</p>
+      <a href="https://imagecompressortool.live/"><img src="https://img.shields.io/badge/Compress_Images_Free-imagecompressortool.live-2EA043?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Compress images online free" /></a>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://waurl.online/" title="Free WhatsApp Link Generator with QR code">
+        <img src="./assets/tools/waurl.jpg" width="100%" alt="WaUrl free WhatsApp link generator with wa.me links, QR codes and click analytics" />
+      </a>
+      <h3><a href="https://waurl.online/">💬 WaUrl: Free WhatsApp Link Generator</a></h3>
+      <p>Create <b>wa.me WhatsApp links</b> with a pre-filled message, generate a <b>WhatsApp QR code</b>, shorten links and track clicks with analytics. Built for businesses, sellers &amp; marketers.</p>
+      <a href="https://waurl.online/"><img src="https://img.shields.io/badge/Create_WhatsApp_Link-waurl.online-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Create WhatsApp link free" /></a>
+    </td>
+  </tr>
+</table>
 
-## 🚀 Projects
+<br/>
 
-### 🗺️ [Rasta Mapen](https://rasta-mapen-client.vercel.app/) — *Latest Project*
-> **Full Stack: Client + Admin Dashboard + Backend Server — built entirely by me**
+<!-- ===================== PROJECTS ===================== -->
+## 🚀 Featured Projects
 
-Bangladesh Location Intelligence API platform. Geocoding, reverse geocoding, places search (2,099+ POIs), real-time autocomplete, and a complete Bangladesh administrative hierarchy — Divisions, Districts, Thanas, and Unions. One API, simple pricing, production-ready.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://rasta-mapen-client.vercel.app/"><img src="./assets/projects/rasta-mapen.jpg" width="100%" alt="Rasta Mapen: Bangladesh location intelligence and geocoding API" /></a>
+      <h3>🗺️ <a href="https://rasta-mapen-client.vercel.app/">Rasta Mapen</a></h3>
+      <sub>⭐ <b>Full stack, built solo</b>: client + admin + server</sub>
+      <p>Bangladesh Location Intelligence API: geocoding, reverse geocoding, places search, autocomplete &amp; the full admin hierarchy (Division → District → Thana → Union). Includes API keys, rate limiting &amp; quotas.</p>
+      <img src="https://skillicons.dev/icons?i=nextjs,ts,nodejs,express,mongodb,tailwind" height="30" /><br/><br/>
+      <a href="https://rasta-mapen-client.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-6E40C9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://goclm.io/"><img src="./assets/projects/go-clm.jpg" width="100%" alt="GO CLM: AI-powered CRM and business automation platform" /></a>
+      <h3>🤖 <a href="https://goclm.io/">GO CLM</a></h3>
+      <sub>💼 <b>Production product</b> @ WaTheta Ltd</sub>
+      <p>AI-powered business platform that brings CRM, live chat, e-commerce and team collaboration into one workspace.</p>
+      <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,redux" height="30" /><br/><br/>
+      <a href="https://goclm.io/"><img src="https://img.shields.io/badge/Visit_Site-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://www.npmjs.com/package/sketchboard-app"><img src="./assets/projects/sketchboard-app.jpg" width="100%" alt="SketchBoard App: local-first privacy-focused whiteboard npm package" /></a>
+      <h3>🎨 <a href="https://www.npmjs.com/package/sketchboard-app">SketchBoard App</a></h3>
+      <sub>📦 <b>Open source</b> · npm package</sub>
+      <p>A local-first, privacy-focused whiteboard. Draw, sketch and brainstorm without your data leaving your machine.</p>
+      <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,mongodb,tailwind" height="30" /><br/><br/>
+      <a href="https://www.npmjs.com/package/sketchboard-app"><img src="https://img.shields.io/npm/v/sketchboard-app?style=for-the-badge&logo=npm&color=CB3837&label=npm" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://www.npmjs.com/package/offline-npm-manager"><img src="./assets/projects/offline-npm-manager.jpg" width="100%" alt="Offline NPM Manager: CLI to install npm packages offline" /></a>
+      <h3>📦 <a href="https://www.npmjs.com/package/offline-npm-manager">Offline NPM Manager</a></h3>
+      <sub>📦 <b>Open source</b> · CLI tool</sub>
+      <p>Download npm packages once and install them offline later. Handles recursive dependency caching, scoped packages &amp; multiple versions.</p>
+      <img src="https://skillicons.dev/icons?i=nodejs,ts,bash" height="30" /><br/><br/>
+      <a href="https://www.npmjs.com/package/offline-npm-manager"><img src="https://img.shields.io/npm/v/offline-npm-manager?style=for-the-badge&logo=npm&color=CB3837&label=npm" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://www.skillbnk.com/"><img src="./assets/projects/skillbnk.jpg" width="100%" alt="SkillBnk: learning management system" /></a>
+      <h3>📚 <a href="https://www.skillbnk.com/">SkillBnk</a></h3>
+      <sub>🎓 Learning Management System</sub>
+      <p>LMS with dedicated portals for students, instructors and admins, covering courses, progress tracking and payments.</p>
+      <img src="https://skillicons.dev/icons?i=nextjs,nodejs,ts,tailwind,redux" height="30" /><br/><br/>
+      <a href="https://www.skillbnk.com/"><img src="https://img.shields.io/badge/Visit_Site-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://ainamsupply.com/"><img src="./assets/projects/ainam-supply.jpg" width="100%" alt="Ainam Supply: gardening and agricultural supplies e-commerce store" /></a>
+      <h3>🛒 <a href="https://ainamsupply.com/">Ainam Supply</a></h3>
+      <sub>🌱 E-commerce</sub>
+      <p>Online store for gardening &amp; agricultural supplies with secure checkout and a full admin panel.</p>
+      <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" height="30" /><br/><br/>
+      <a href="https://ainamsupply.com/"><img src="https://img.shields.io/badge/Visit_Site-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+    </td>
+  </tr>
+</table>
 
-- Secure API key authentication, rate limiting, IP protection, and daily quotas
-- 75% cheaper than alternative location data providers for Bangladesh
-- Complete admin panel for user management, API key monitoring, and analytics
-- **Stack:** React.js · Next.js · Node.js · Express.js · MongoDB · REST API · JWT · Tailwind CSS · Vercel
+<p align="center">
+  <a href="https://sagorahamed.me/"><img src="https://img.shields.io/badge/See_all_projects_on_my_portfolio_→-6E40C9?style=for-the-badge" /></a>
+</p>
 
----
+<br/>
 
-### 📚 [Quick Skill](https://www.quickskill.ai/)
-Platform for managing video courses with categories, pricing, and progress tracking.
-- Role-based access with panels for students, instructors, and admins
-- Secure payments, reviews, ratings, and discussion forums to boost engagement
-- **Stack:** React.js · Next.js · Redux Toolkit · RTK Query
+<!-- ===================== STATS ===================== -->
+## 📊 GitHub Analytics
 
-### 📦 [Offline NPM Manager – CLI Tool](https://www.npmjs.com/package/offline-npm-manager)
-CLI tool to download npm packages once and install them offline without the internet.
-- Recursive deps caching, install, list & remove with smart caching
-- Scoped packages & multi-version support
-- **Stack:** Node.js · CLI · npm
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SagorAhamed251245&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=6E40C9&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SagorAhamed251245&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&langs_count=8" height="170" alt="Top Languages" />
+</p>
 
-### 🛒 [Ainam Supply](https://ainamsupply.com/)
-Single-vendor e-commerce platform with streamlined product browsing and purchasing.
-- Secure checkout and seamless online shopping experience
-- Admin panel for monitoring, analytics, and platform operations
-- **Stack:** React.js · Express.js · MongoDB · Node.js
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SagorAhamed251245&theme=tokyonight&hide_border=true&background=0D1117&ring=6E40C9&fire=00BFFF&currStreakLabel=00BFFF" alt="GitHub Streak" />
+</p>
 
----
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SagorAhamed251245/SagorAhamed251245/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SagorAhamed251245/SagorAhamed251245/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/SagorAhamed251245/SagorAhamed251245/output/github-snake-dark.svg" />
+  </picture>
+</p>
 
-## 🤝 Interpersonal Skills
+<br/>
 
-- Strong verbal and written skills for effective team collaboration
-- Led a 30-member team as **Scrum Lead** in a competition and received the **Best Scrum Lead** award
-- Excellent organizational and time management skills, capable of prioritizing tasks
+<!-- ===================== TESTIMONIALS ===================== -->
+## 💬 What People Say
 
----
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <p>⭐⭐⭐⭐⭐</p>
+      <i>"Expert in React/Next.js and state management, delivers clean code and communicates proactively."</i>
+      <br/><br/>
+      <b>Abid Hasan</b><br/><sub>Software Engineer</sub>
+    </td>
+    <td width="33%" valign="top">
+      <p>⭐⭐⭐⭐⭐</p>
+      <i>"Talented in frontend technologies and dedicated to quality UI/UX across UpChef and Mah Heroes."</i>
+      <br/><br/>
+      <b>Mohammed Imtiaj Alam</b><br/><sub>Software Project Manager</sub>
+    </td>
+    <td width="33%" valign="top">
+      <p>⭐⭐⭐⭐⭐</p>
+      <i>"Great problem-solver and fast learner who works smoothly with designers and backend teams."</i>
+      <br/><br/>
+      <b>Ashfaqur Rahman Papon</b><br/><sub>Software Developer</sub>
+    </td>
+  </tr>
+</table>
 
+<br/>
+
+<!-- ===================== EDUCATION ===================== -->
 ## 🎓 Education
 
-| Degree | Institution | Status |
-|--------|------------|--------|
-| B.Sc in Mechanical Engineering | Sonargaon University | 5 Semesters Completed |
-| Diploma in Mechanical Technology | Munshiganj Polytechnic Institute | Completed |
+<table>
+  <tr>
+    <td>🎓 <b>B.Sc in Mechanical Engineering</b><br/><sub>Sonargaon University · 5 semesters completed, then switched to web development</sub></td>
+    <td>📜 <b>Diploma in Mechanical Technology</b><br/><sub>Munshiganj Polytechnic Institute · 2016 – 2021</sub></td>
+  </tr>
+  <tr>
+    <td>🏫 <b>HSC, Science</b><br/><sub>BM Union School and College · 2019</sub></td>
+    <td>🏫 <b>SSC, Science</b><br/><sub>BM Union School and College · 2016</sub></td>
+  </tr>
+</table>
 
----
+<br/>
 
-## 📊 GitHub Stats
+<!-- ===================== CONTACT ===================== -->
+## 🤝 Let's Build Something Together
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SagorAhamed251245&show_icons=true&locale=en&theme=default" alt="GitHub Stats" />
+  I'm <b>open to freelance work and full-time roles</b>. If you have an idea, a product or a team that needs a frontend/full-stack developer, let's talk!
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SagorAhamed251245" alt="GitHub Streak" />
+  <a href="mailto:sagorahamed251245@gmail.com"><img src="https://img.shields.io/badge/sagorahamed251245@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sagor-ahamed-87550a251/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SagorAhamed251245&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <sub>
+    🌐 <a href="https://sagorahamed.me/">Sagor Ahamed: Portfolio</a> ·
+    🖼️ <a href="https://imagecompressortool.live/">Compress JPG, PNG &amp; WebP Online Free</a> ·
+    💬 <a href="https://waurl.online/">Free WhatsApp Link &amp; QR Code Generator</a>
+  </sub>
 </p>
+
+<!-- ===================== FOOTER ===================== -->
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SagorAhamed251245&no-bg=true&no-frame=true" alt="Trophies" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:6E40C9,100:0D1117&height=120&section=footer" width="100%" />
 </p>
