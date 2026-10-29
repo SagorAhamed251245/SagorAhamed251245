@@ -27,7 +27,8 @@
 <p align="center">
   🛠️ <b>My free tools:</b>
   <a href="https://imagecompressortool.live/"><b>Free Online Image Compressor</b></a> ·
-  <a href="https://waurl.online/"><b>WhatsApp Link Generator</b></a>
+  <a href="https://waurl.online/"><b>WhatsApp Link Generator</b></a> ·
+  <a href="https://graphpapers.tech/"><b>Free Graph Paper Generator</b></a>
 </p>
 
 <br/>
@@ -46,13 +47,14 @@
   <img src="https://img.shields.io/badge/Experience-2%2B_Years-6E40C9?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Projects-6%2B-00BFFF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/npm_Packages-2-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Free_Tools-2-2EA043?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Free_Tools-3-2EA043?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🏆_Best_Scrum_Lead-F0B429?style=for-the-badge" />
 </p>
 
 <br/>
 
 <!-- ===================== TECH STACK ===================== -->
+
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -97,6 +99,7 @@
 <br/>
 
 <!-- ===================== EXPERIENCE ===================== -->
+
 ## 💼 Experience
 
 <table>
@@ -127,13 +130,14 @@
 <br/>
 
 <!-- ===================== FREE TOOLS ===================== -->
+
 ## 🧰 Free Online Tools I Built
 
 <p align="center"><i>100% free, no sign-up, used by people every day. Try them out!</i></p>
 
 <table>
   <tr>
-    <td width="50%" valign="top" align="center">
+    <td width="33%" valign="top" align="center">
       <a href="https://imagecompressortool.live/" title="Free Online Image Compressor: compress JPG, PNG and WebP images">
         <img src="./assets/tools/image-compressor-tool.jpg" width="100%" alt="Free online image compressor tool to reduce JPG, PNG and WebP image size in the browser" />
       </a>
@@ -141,7 +145,7 @@
       <p>Compress <b>JPG, PNG &amp; WebP</b> images online for free, <b>100% in your browser</b>, so your files never leave your device. Batch compression, compress to an exact size (e.g. 100KB / 50KB), and 11+ languages.</p>
       <a href="https://imagecompressortool.live/"><img src="https://img.shields.io/badge/Compress_Images_Free-imagecompressortool.live-2EA043?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Compress images online free" /></a>
     </td>
-    <td width="50%" valign="top" align="center">
+    <td width="33%" valign="top" align="center">
       <a href="https://waurl.online/" title="Free WhatsApp Link Generator with QR code">
         <img src="./assets/tools/waurl.jpg" width="100%" alt="WaUrl free WhatsApp link generator with wa.me links, QR codes and click analytics" />
       </a>
@@ -149,12 +153,21 @@
       <p>Create <b>wa.me WhatsApp links</b> with a pre-filled message, generate a <b>WhatsApp QR code</b>, shorten links and track clicks with analytics. Built for businesses, sellers &amp; marketers.</p>
       <a href="https://waurl.online/"><img src="https://img.shields.io/badge/Create_WhatsApp_Link-waurl.online-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Create WhatsApp link free" /></a>
     </td>
+    <td width="33%" valign="top" align="center">
+      <a href="https://graphpapers.tech/" title="Free Graph Paper Generator: create printable graph paper online">
+        <img src="./assets/tools/graphpapers.jpg" width="100%" alt="Graph Papers free online generator for printable graph paper with custom grid size and color" />
+      </a>
+      <h3><a href="https://graphpapers.tech/">📐 Graph Papers: Free Graph Paper Generator</a></h3>
+      <p>Generate <b>printable graph paper</b> online with a custom grid size, spacing and color. Download as <b>PDF or PNG</b> in A4 or Letter. Perfect for math, engineering &amp; art projects.</p>
+      <a href="https://graphpapers.tech/"><img src="https://img.shields.io/badge/Make_Graph_Paper-graphpapers.tech-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Make printable graph paper free" /></a>
+    </td>
   </tr>
 </table>
 
 <br/>
 
 <!-- ===================== PROJECTS ===================== -->
+
 ## 🚀 Featured Projects
 
 <table>
@@ -221,6 +234,7 @@
 <br/>
 
 <!-- ===================== STATS ===================== -->
+
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -243,6 +257,7 @@
 <br/>
 
 <!-- ===================== TESTIMONIALS ===================== -->
+
 ## 💬 What People Say
 
 <table>
@@ -271,6 +286,7 @@
 <br/>
 
 <!-- ===================== EDUCATION ===================== -->
+
 ## 🎓 Education
 
 <table>
@@ -287,6 +303,7 @@
 <br/>
 
 <!-- ===================== CONTACT ===================== -->
+
 ## 🤝 Let's Build Something Together
 
 <p align="center">
@@ -302,7 +319,8 @@
   <sub>
     🌐 <a href="https://sagorahamed.me/">Sagor Ahamed: Portfolio</a> ·
     🖼️ <a href="https://imagecompressortool.live/">Compress JPG, PNG &amp; WebP Online Free</a> ·
-    💬 <a href="https://waurl.online/">Free WhatsApp Link &amp; QR Code Generator</a>
+    💬 <a href="https://waurl.online/">Free WhatsApp Link &amp; QR Code Generator</a> ·
+    📐 <a href="https://graphpapers.tech/">Free Printable Graph Paper Generator</a>
   </sub>
 </p>
 
