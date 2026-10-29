@@ -155,7 +155,7 @@
     </td>
     <td width="33%" valign="top" align="center">
       <a href="https://graphpapers.tech/" title="Free Graph Paper Generator: create printable graph paper online">
-        <img src="./assets/tools/graphpapers.jpg" width="100%" alt="Graph Papers free online generator for printable graph paper with custom grid size and color" />
+        <img src="./assets/tools/graphpapers.png" width="100%" alt="Graph Papers free online generator for printable graph paper with custom grid size and color" />
       </a>
       <h3><a href="https://graphpapers.tech/">📐 Graph Papers: Free Graph Paper Generator</a></h3>
       <p>Generate <b>printable graph paper</b> online with a custom grid size, spacing and color. Download as <b>PDF or PNG</b> in A4 or Letter. Perfect for math, engineering &amp; art projects.</p>
